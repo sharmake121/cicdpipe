@@ -112,3 +112,38 @@ This ensures every commit is validated automatically.
 ```bash
 npm install
 npm test
+🔄 Git Workflow
+This project follows a clean Git workflow:
+- main → stable, production‑ready branch
+- Feature branches → merged via pull requests
+- CI pipeline validates every push and PR
+
+🧠 Skills Demonstrated
+This project showcases practical DevOps and Cloud Engineering capabilities, including:
+🔹 CI/CD & Automation
+- Designing automated pipelines using GitHub Actions
+- Implementing test‑driven workflows with Jest
+- Ensuring code quality through automated validation
+- Managing non‑fast‑forward merges and Git conflicts professionally
+🔹 Git & Version Control
+- Clean branching strategy (main + feature branches)
+- Handling merge conflicts, rebasing, and history alignment
+- Professional commit hygiene and repo structure
+🔹 Node.js Engineering
+- Modular application structure
+- Automated dependency management
+- Unit testing and test coverage
+🔹 DevOps Mindset
+- Pipeline reliability and repeatability
+- Workflow orchestration
+- Clear documentation and project visibility
+- Recruiter‑friendly presentation for Dubai/GCC markets
+🔹 Soft Skills (Highly valued in UAE)
+- Attention to detail
+- Ownership of technical workflows
+- Ability to troubleshoot real‑world CI/CD issues
+- Strong communication through documentation
+
+📬 Contact
+GitHub: https://github.com/sharmake121 (github.com in Bing)
+LinkedIn: (https://www.linkedin.com/in/sharmaake-ahmed/)
